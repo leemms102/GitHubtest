@@ -2,7 +2,7 @@
 
 int main(){
 	dog();
-	horse();
+	kangaroo();
 	return 0;
 }
 
@@ -10,6 +10,6 @@ void dog() {
 	printf("dog barks\n");
 }
 
-void horse() {
-	printf("horse jumps\n");
+void kangaroo() {
+	printf("kangaroo jumps\n");
 }
